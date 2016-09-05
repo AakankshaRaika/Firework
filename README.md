@@ -1,4 +1,4 @@
-# Firework
+# Firework is a project I did for my CSE 250 - data structures class in Junior year at UB. 
 Warning: This is strictly a C++ programming assignment. It has nothing to do with actual fireworks or explosives of any kind.
 For this assignment you will be implementing a FireworkFactory class in C++. This class manages the construction, purchase, and sale of different colored fireworks. Since the shelf life of a firework is limited, they must be sold in FIFO order to keep the factories inventory as fresh as possible. In addition, there will be a time when each factory is shut down. In this event, it is important to properly dispose of its entire inventory of fireworks (delete the objects).
 
